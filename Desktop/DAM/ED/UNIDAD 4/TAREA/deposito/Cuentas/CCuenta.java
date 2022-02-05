@@ -46,7 +46,7 @@ public class CCuenta {
 				e.printStackTrace();
 			}
           
-               System.out.println("Ingreso en cuenta");
+               System.out.println("Ingreso    en cuenta");
                System.out.println("Ingreso en cuenta22");
                try {
 				ingresar(cantaingresar);
