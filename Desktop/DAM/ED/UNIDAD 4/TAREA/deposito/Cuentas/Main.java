@@ -5,7 +5,7 @@ public class Main {
         CCuenta Cuenta1;
         double saldoActual;
 
-        Cuenta1 = new CCuenta("Antonio LÃ³pez","1000-2365-85-1230456789",2500,0);
+        Cuenta1 = new CCuenta("Antonio López García","1000-2365-85-1230456789",2500,0);
         saldoActual = Cuenta1.estado();
         System.out.println("El saldo actual es "+ saldoActual );
 
